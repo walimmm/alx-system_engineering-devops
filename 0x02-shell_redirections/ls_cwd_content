@@ -1,0 +1,24 @@
+total 84
+drwxr-xr-x 2 root root  4096 Mar  7 19:08 .
+drwxr-xr-x 6 root root   102 Mar  7 12:58 ..
+-rwxr-xr-x 1 root root    32 Mar  7 13:35 0-hello_world
+-rwxr-xr-x 1 root root    28 Mar  7 16:39 1-confused_smiley
+-rwxr-xr-x 1 root root    28 Mar  7 17:01 2-hellofile
+-rwxr-xr-x 1 root root    39 Mar  7 17:06 3-twofiles
+-rwxr-xr-x 1 root root    29 Mar  7 17:15 4-lastlines
+-rwxr-xr-x 1 root root    29 Mar  7 17:18 5-firstlines
+-rwxr-xr-x 1 root root    36 Mar  7 17:52 6-third_line
+-rwxr-xr-x 1 root root    83 Mar  7 19:03 7-file
+-rw-r--r-- 1 root root 12288 Mar  7 18:56 .7-file.swo
+-rw-r--r-- 1 root root 12288 Mar  7 18:03 .7-file.swp
+-rwxr-xr-x 1 root root    36 Mar  7 19:06 8-cwd_state
+-rw-r--r-- 1 root root     0 Mar  7 18:23 *\'"Best
+-rw-r--r-- 1 root root    12 Mar  7 18:11 *\"Best School"\\*$?*****:)
+-rw-r--r-- 1 root root    30 Mar  7 19:03 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    18 Mar  7 18:44 \*\\*"Best School"\*\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     0 Mar  7 18:34 dfwkhclear
+-rw-r--r-- 1 root root   814 Mar  7 17:39 iacta
+-rw-r--r-- 1 root root     0 Mar  7 19:08 ls_cwd_content
+-rw-r--r-- 1 root root     0 Mar  7 18:35 nfjkd
+-rw-r--r-- 1 root root     8 Mar  7 13:09 README.md
+-rw-r--r-- 1 root root     0 Mar  7 18:23 School"'\*$?*****:)
