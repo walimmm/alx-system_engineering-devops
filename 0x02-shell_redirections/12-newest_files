@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -lt | tail -10 
+#!/bin/barh
+ls -lt | head -10
